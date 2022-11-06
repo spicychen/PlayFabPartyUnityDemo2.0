@@ -1,6 +1,8 @@
 # PlayFabPartyUnityDemo2.0
 
-To begin with, you need to set the Title ID in Assets/PlayFabSDK/Shared/Public/Resources/PlayFabSharedSettings
+Download the latest release, import, you need to set the Title ID in Assets/PlayFabSDK/Shared/Public/Resources/PlayFabSharedSettings
+
+Build the scene Assets/PlayFabPartySDK/Examples/Demo.unity
 
 Instructions:
 
